@@ -1,0 +1,19 @@
+# Python
+venv/
+Include/
+Lib/
+Scripts/
+__pycache__/
+*.pyc
+pyvenv.cfg
+
+# Node
+node_modules/
+frontend/node_modules/
+.cache/
+
+# Environment
+.env
+# Secrets
+firebase-key.json
+backend/firebase-key.json
